@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expenses-and-costs/static/css/main.1440a5b4.css",
+    "main.js": "/Expenses-and-costs/static/js/main.8573ba3a.js",
+    "index.html": "/Expenses-and-costs/index.html",
+    "main.1440a5b4.css.map": "/Expenses-and-costs/static/css/main.1440a5b4.css.map",
+    "main.8573ba3a.js.map": "/Expenses-and-costs/static/js/main.8573ba3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1440a5b4.css",
+    "static/js/main.8573ba3a.js"
+  ]
+}
